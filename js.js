@@ -1,13 +1,8 @@
-console.log("skizb1");
+console.log("skizb2");
 
-let i=22;
+console.log(2 ** 12);
 
-while(i<87){
-   i++;
-    console.log(i);
-}
 
-console.log("verj1");
 
 
 
